@@ -34,9 +34,9 @@ module.exports = {
           selectors: ['*'],
           inclusion: true,
           callbacks: [
-            require('postcss-sparrow-units-filter')(
+            require('postcss-sparrow-values-filter')(
               {
-                units: [],
+                values: ['none'],
                 inclusion: true,
                 callbacks: [
                   //Do transformation here with your own callback functions
