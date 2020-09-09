@@ -18,7 +18,7 @@ Download both `postcss-sparrow` and this plugin through NPM.
 
 ```shell
 
-npm i postcss-sparrow postcss-sparrow-units-filter
+npm i postcss-sparrow postcss-sparrow-values-filter
 
 ```
 
