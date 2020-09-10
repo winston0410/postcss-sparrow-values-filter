@@ -62,6 +62,8 @@ module.exports = {
 
 An array of values that you want to match with. Use `*` as wildcard and select all values.
 
+For example, `absolute` will match `position: absolute`.
+
 ### `options.inclusion` : Boolean
 
 True for including and False for excluding values listed in `options.values`.
